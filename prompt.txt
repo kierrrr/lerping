@@ -1,0 +1,498 @@
+The following is a CSV of Korean vocabulary words. The first column is the word and the second column is the English meaning of the word.
+
+차,tea/ car
+사과,apple/ apology
+가다,to go
+보다,to see/ to look at
+먹다,to eat
+네,yes
+아니요,no
+커피,coffee
+물,water
+가방,bag
+사무실,office
+학교,school
+저,I/ that (over there)
+뭐,what
+책,book
+카메라,camera
+사전,dictionary/ prior/ beforehand
+사람,person/ people
+우유,milk
+학생,student
+사랑,love
+노래,song
+일하다,to work
+고양이,cat
+날씨,weather
+오늘,today
+좋다,to be good/ be nice/ to like
+하다,to do
+오다,to come
+사다,to buy
+마시다,to drink
+자다,to sleep
+있다,to exist/ to have/ to stay
+친구,friend/ same age person
+돈,money
+일어나다,to wake up/ get up/ to happen
+의자,chair
+밥,rice (cooked)/ meal
+엄마,mom
+더,more
+영화,movie
+읽다,to read
+놀다,to hang out/ to play
+쉬다,to rest/ take a rest
+고향,hometown
+웃다,to laugh/ smile
+요리,cooking/ dish
+적다,to be few/ little;to write down/ fill out
+끝나다,to end/ be over
+팔다,to sell
+어디,where
+한국,Korea
+지금,now
+도착하다,to arrive
+내일,tomorrow
+머리,head/ hair
+여행,trip/ travel
+기다리다,to wait
+쓰다,to write/ to use
+나중에,later
+어제,yesterday
+공부하다,to study
+청소하다,to clean up/ to vacuum
+노래하다,to sing
+운동하다,to work out/ to exercise
+사랑하다,to love
+말,words/ language/ horse
+가게,shop/ store
+누구,who
+전화,telephone
+은행,bank
+만들다,to make
+어떻게,how
+왜,why
+얼마,how much (money)
+얼마나,how + adjective/adverb
+빨리,quickly
+찾다,to look for/ to find/ to withdraw (money)
+말하다,to speak
+내다,to pay/ to hand in;
+도서관,library
+옷,clothes
+자주,often
+크다,to be big/ to grow
+서울,Seoul
+여기,here
+아침,morning/ breakfast
+선물,present/ gift
+남자,man/ male
+한국어,Korean (language)
+생각하다,to think
+아내,wife
+눈,eye/ snow
+음악,music
+저녁,evening/ dinner
+의사,doctor/ physician/ intention/ idea
+미국,USA
+일본,Japan
+아이스크림,ice cream
+영어,English (language)
+만나다,to meet
+거기,there
+금요일,Friday
+정말,really/ seriously
+입다,to put on/ wear
+여자,woman/ female
+생일,birthday
+치마,skirt
+비,rain
+방,a room
+텔레비전,TV
+번,time (first/ second...)
+아이,child
+여러분,everyone/ ladies and gentlemen
+음식,food
+그리고,and
+빵,bread
+그래서,therefore
+많이,a lot/ many/ plenty
+같이,together
+춤추다,to dance
+선생님,teacher
+컴퓨터,computer
+피곤하다,to be tired
+새,new/ bird
+월요일,Monday
+화요일,Tuesday
+좋아하다,to like
+오렌지,orange
+딸기,strawberry
+매일,every day
+그런데,by the way/ but then
+배,pear/ stomach/ boat
+수박,watermelon
+그렇지만,but/ however
+늦게,late
+밤,night/ chestnut
+시험,exam/ test
+받다,to receive/ accept/ to take
+모르다,to not know
+나오다,to come out
+초콜릿,chocolate
+고기,meat
+수요일,Wednesday
+목요일,Thursday
+그럼,then/ if so/ that's right
+식당,restaurant/ cafeteria/ diner
+병원,hospital
+닫다,to close
+수영하다,to swim
+배우다,to learn
+분,minute/ person (hon.)
+보통,usually/ normally
+수업,class/ instruction
+지하철,subway
+중요하다,to be important
+개,dog/ thing (count.)
+연필,pencil
+몇,how many
+다,all
+시장,market/ mayor
+토요일,Saturday
+일요일,Sunday
+듣다,to listen/ to hear
+잠,sleep/ nap
+화장실,toilet/ bathroom
+공항,airport
+이름,name
+여동생,younger sister
+취미,hobby
+살다,to live
+대학교,college
+가르치다,to teach
+태어나다,to be born
+바쁘다,to be busy
+가족,family
+직업,job/ occupation
+주다,to give
+이야기하다,to talk
+앉다,to sit/ sit down
+싫어하다,to dislike
+버스,bus
+주스,juice
+아직,yet/ still
+점심,lunch/ afternoon
+올해,this year
+극장,movie theater/ theater
+신문,newspaper
+잡다,to catch/ grab/ take
+준비하다,to prepare
+일찍,early
+바지,pants
+조금,a little
+비싸다,to be expensive
+빠르다,to be quick/ fast
+멀다,to be far
+나쁘다,to be bad
+덥다,to be hot (regarding the weather)
+운전하다,to drive
+잘못하다,to make a mistake
+숙제,homework
+자전거,bicycle
+찍다,to take a picture/ to mark/ stamp/ dip into/ chop
+사진,picture/ photo
+계획,plan/ project
+알다,to know/ understand
+가깝다,to be close
+주말,weekend
+백화점,department store
+회사,company/ corporation
+오전,before noon
+힘들다,to be difficult/ tiring/ painful
+쉽다,to be easy
+싸다,to be inexpensive/ cheap/ to wrap up/ pack
+아름답다,to be beautiful
+춥다,to be cold (regarding the weather)
+맵다,to be spicy/ hot/ to be intense
+아프다,to be sick/ to hurt/ ache
+예쁘다,to be pretty/ charming
+봄,spring
+오후,after noon
+다르다,to be different
+부르다,to call/ to call out
+같다,to be the same (as)/ to look like/ seem like
+어렵다,to be difficult/ hard
+모두,all together/ everyone
+층,floor (count.)
+싫다,to not like/ to not want to do
+슬프다,to be sad
+제일,the most
+길다,to be long
+작다,to be small
+맞다,to be correct/ to be hit/ struck
+맛,taste/ flavor
+월,month
+그렇다,to be so (like that)
+문제,problem/ question
+공원,park
+불,fire/ light
+돕다,to help
+약속,appointment/ promise
+못하다,to be unable to do
+가지다,to posess (have)
+택시,taxi
+곳,place
+할머니,grandmother
+설명하다,to explain
+말다,to not do/ to put into soup/ to roll
+보내다,to send/ to pass (spend) time
+위,above/ top/ senior/ stomach
+책상,desk
+앞,the front
+축하하다,to congratulate
+뒤,behind
+구두,dress shoes
+질문,question
+시작하다,to start/ begin
+아들,son
+옆,beside/ next to
+안,inside/ within/ not/ proposal
+키,height
+너무,too (much)
+달,month/ moon
+인사하다,to greet/ to say goodbye
+요즘,these days
+제,my
+다시,again
+자동차,car
+되다,to become/ get/ turn into
+아버지,father
+외국,foreign country
+재미있다,to be fun/ interesting
+어머니,mother
+다음,the next/ the following
+역,train station/ part in a play
+나가다,to go out
+우리,we (informal)
+년,year
+딸,daughter
+열심히,diligently/ passionately
+대답,answer
+전,before/ prior to
+들어오다,to come in/ enter
+얼굴,face
+형,a man's older brother/ type/ style/ punishment
+천천히,slowly
+마음,mind/ heart/ nature
+조용하다,to be quiet
+반갑다,to be glad/ happy/ pleased
+부모님,parents
+밖,the outside
+다니다,to go (frequently)/ to attend/ work for
+계속하다,to continue
+울다,to cry
+꽃,flower
+볼펜,ballpoint pen
+공책
+모자,hat/ cap/ mother and son
+겨울,winter
+많다,to be many/ to be plenty
+미안하다,to be sorry (less formal)
+라면,ramen
+신발,shoes/ footwear
+걸리다,to take time/ to hang;
+방학,school holiday
+시원하다,to be cool/ refreshing
+가수,singer
+감기,cold (the illness)
+씻다,to wash
+손,hand
+치다,to play a game/ to hit/ attack
+타다,to ride/ get in/ to burn/ be tanned
+깨끗하다,to be clean
+늦다,to be late
+문,door
+반,half/ group/ class
+세수하다,to wash one's face
+걷다,to walk
+필요하다,to need
+열다,to open
+놓다,to lay/ put/ place/ to let go
+식사,meal
+배우,actor
+구경하다,to go sightseeing/ look around/ to see
+할아버지,grandfather
+누나,older sister (of a male)
+계시다,to exist (hon.)
+달다,to be sweet/ to put up/ attach/ to weigh/ measure
+여름,summer
+어떤,some/ certain/ what kind of
+내리다,to come down/ put down/ to get out of/ to take off
+따뜻하다,to be warm/ kind
+날,day/ date/ edge
+초대하다,to invite
+과일,fruit
+나라,country/ nation
+어느,which
+작년,last year
+잠깐,for a little while
+좀,a little/ kindly/ certainly
+짧다,to be short
+바나나,banana
+언니,older sister (of a female)
+오빠,older brother (of a female)
+고맙다,to be thankful/ grateful
+처음,first/ at first/ first time
+창문,window
+오른쪽,right side
+잘,well
+남편,husband
+시간,time/ hours
+몸,body/ figure
+이번,this time
+생활,life/ living/ livelihood
+사용하다,to use/ make use of
+그래,yes/ okay
+입,mouth
+그림
+아빠,dad
+가을,autumn
+죄송하다,to be sorry/ feel guilty
+하지만,but/ though
+잘하다,to do well/ be skillful
+살,years of age (count.)/ flesh/ muscle
+지내다,to spend time/ to pursue/ to associate with
+전화하다,to make a phone call
+안녕히,peacefully/ safely
+기차,train
+괜찮다,to be okay
+남동생,younger brother
+물어보다,to ask/ question
+아파트,apartment building
+게임,game
+팔,arm
+배고프다,to be hungry
+소개하다,to introduce/ recommend
+또,again/ repeatedly/ also/ too
+시계,clock/ watch
+이쪽,this side/ our side
+안녕하다,to be well/ be in good health
+없다,to not exist/ to not have
+파티,party (social gathering)
+카드,card
+도와주다,to help out/ assist
+호텔,hotel
+때,time/ when/ occasion/ dirt
+안경,glasses/ eyeglasses
+이,tooth/ this
+불고기,marinated beef
+메뉴,menu
+집,house/ home/ family
+언제,when
+너,you (informal)
+일월,January
+동생,younger sibling/ younger friend
+무슨,which/what (+ noun)
+등산,hiking/ mountain climbing
+쇼핑,shopping
+일,work/ matter/ day
+갈비,barbecued spare ribs
+나,I (informal)
+감사하다,to be thankful/ thank/ appreciate
+무엇,what/ which/ something 
+그,that (before nouns)
+맛있다,to be delicious/ tasty
+아니다,to not be
+시,time/ hour/ o'clock/ poem
+명,counter for people
+영국,United Kingdom
+김치,kimchi (traditional Korean dish made of seasoned vegetables and other ingredients)
+냉면,cold noodles
+김밥,Korean dried seaweed rice rolls
+들어가다,to enter/ go in
+대학,university
+떡볶이,rice-stick with vegetables
+하얀색,white
+재미없다,to be boring/ dull
+저기,over there
+저쪽,that side/ over there
+생각,thought/ idea
+이거,this thing
+오월,May
+유월,June
+이월,February
+삼월,March
+씨,Mr./ Ms./ seed/ kernel
+사월,April
+칠월,July
+한국말,Korean language
+팔월,August
+구월,September
+시월,October
+건강하다,to be healthy
+중국,China
+파란색,blue
+일주일,one week
+맛없다,to be tasteless/ unsavory
+
+The following is a CSV of 52 Korean sentence patterns. The first column is the Korean sentence pattern and the second column represents the English meaning. The letter N represents a noun. The brackets represent an optional grammatical particle within the sentence.
+
+저는 N-이에요/예요.,I'm N.
+N-이에요/예요.,It's N.
+저는 N(-이/가) 아니에요.,I'm not N.
+N(-이/가) 아니에요.,It's not N.
+저는 N-(이)랑은 거리가 멀어요.,I'm far from N.
+N(-을/를) 좋아해요.,I like N.
+N-(이)면 상관 없어요.,It doesn’t matter as long as it's N.
+N 괜찮아요.,I'm okay with N.
+N-이/가 마음에 들어요.,I like N.
+N(-을/를) 안 좋아해요.,I don't like N.
+N(-을/를) 싫어해요.,I dislike N.
+N(-을/를) 좋아하세요?,Do you like N?
+N(-을/를) 잘해요.,I'm good at N.
+N(-을/를) 잘 못해요.,I'm not very good at N.
+N(-이/가) 있어요.,I have N. / There is N.
+N-에 있어요.,I'm/It's at/in N.
+N(-이/가) 없어요.,I don't have N. / There is no N.
+N(-을/를) 알아요.,I know N.
+N(-을/를) (이미) 알고 있어요.,I’m (already) aware of N.
+N(-을/를) 알아요?,Do you know N?
+N(-을/를) 잘 몰라요.,I don't know N well.
+N-이/가 뭐예요?,What is N?
+N-이/가 무슨 뜻이에요?,What does N mean?
+N(이/가) 어디 있어요?,Where is N?
+N(-이/가) 어때요?,How is N? / How about N? / What do you think about N?
+혹시 N(-이/가) 있어요?,By any chance do you have N? / By any chance is there N?
+혹시 N(-을/를) 말하는 거예요?,By any chance are you talking about N?
+N(-을/를) 주세요.,Please give me N.
+N-은/는 어느 쪽이에요?,Which way is N?
+N-인 것 같아요.,I think it's N. / It seems to be N.
+N-처럼 보여요.,It looks like N.
+N-일 것 같아요.,I think it will be N.
+N 중이에요.,I'm on N. / I’m in the middle of N.
+N-(으)로 가는 중이에요.,I'm on my way to N.
+N(-을/를) 배우고 있어요.,I'm learning N.
+N(-을/를) 찾고 있어요.,I'm looking for N.
+N-이/가 필요해요.,I need N.
+N(-을/를) 갖고 싶어요.,I want to have N.
+N-밖에 없어요.,I have nothing but N. / There’s nothing but N.
+N-이/가 끝났어요.,N is over. / N has finished. / N is done.
+N-이/가 최고예요.,N is the best.
+N-이/가 제일 좋아요.,I like N the most.
+N-이/가 제일 쉬워요.,N is the easiest.
+N-이/가 제일 힘들어요.,N is the hardest.
+N(-을/를) 좀 알려 주세요.,Please let me know N.
+N(-을/를) 알려 줄게요.,I'll let you know N.
+N(-이/가) 되고 싶어요.,I want to be N.
+N(-이/가) 되고 싶어요?,Do you want to be N?
+N(-을/를) 본 적 있어요?,Have you ever seen/watched N?
+N(-에) 가 본 적 있어요?,Have you ever been to N?
+N(-을/를) 먹어 본 적 있어요?,Have you ever eaten N?
+N(-을/를) 완전 기대 중이에요.,I'm really looking forward to N.
+
+For each sentence pattern, create three flashcards based on random vocabulary words from the provided list. There should be a total of 156 flashcards. The front should contain an interesting, conversational Korean sentence with correct grammar and the back contains its English meaning. The flashcards should only be based from the vocabulary list provided and the sentence patterns provided. Ensure that each vocabulary word is used only once across all flashcards.
+
+Can you provide the flashcards in CSV format that I can import to Anki?
