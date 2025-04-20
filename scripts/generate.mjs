@@ -16,14 +16,16 @@ try {
     fs.readFile(promptPathFile, { encoding: "utf8" }),
   ]);
 
+  const numberOfVocab = vocabData.split("\n").length - 1;
   const numberOfPatterns = patternsData.split("\n").length - 1;
 
   const finalPrompt = promptData
-    .replace("{{vocab}}", vocabData)
-    .replace("{{patterns}}", patternsData)
-    .replace("{{flashcards_num}}", NUM_OF_FLASHCARDS_PER_PATTERN)
-    .replace("{{patterns_num}}", numberOfPatterns)
-    .replace(
+    .replaceAll("{{vocab_num}}", numberOfVocab)
+    .replaceAll("{{vocab}}", vocabData)
+    .replaceAll("{{patterns}}", patternsData)
+    .replaceAll("{{flashcards_num}}", NUM_OF_FLASHCARDS_PER_PATTERN)
+    .replaceAll("{{patterns_num}}", numberOfPatterns)
+    .replaceAll(
       "{{flashcards_total}}",
       numberOfPatterns * NUM_OF_FLASHCARDS_PER_PATTERN,
     )
