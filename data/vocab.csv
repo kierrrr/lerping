@@ -1,4 +1,3 @@
-Front,Back
 차,tea/ car
 사과,apple/ apology
 가다,to go
@@ -46,7 +45,7 @@ Front,Back
 고향,hometown
 웃다,to laugh/ smile
 요리,cooking/ dish
-적다,to be few/ little;to write down/ fill out
+적다,to be few/ little/to write down/ fill out
 끝나다,to end/ be over
 팔다,to sell
 어디,where
@@ -60,6 +59,7 @@ Front,Back
 쓰다,to write/ to use
 나중에,later
 어제,yesterday
+술,alcoholic drink
 공부하다,to study
 청소하다,to clean up/ to vacuum
 노래하다,to sing
@@ -78,7 +78,7 @@ Front,Back
 빨리,quickly
 찾다,to look for/ to find/ to withdraw (money)
 말하다,to speak
-내다,to pay/ to hand in;
+내다,to pay/ to hand in/
 도서관,library
 옷,clothes
 자주,often
@@ -90,6 +90,7 @@ Front,Back
 남자,man/ male
 한국어,Korean (language)
 생각하다,to think
+캐나다,Canada
 아내,wife
 눈,eye/ snow
 음악,music
@@ -102,6 +103,7 @@ Front,Back
 만나다,to meet
 거기,there
 금요일,Friday
+혼자,alone
 정말,really/ seriously
 입다,to put on/ wear
 여자,woman/ female
@@ -131,6 +133,7 @@ Front,Back
 딸기,strawberry
 매일,every day
 그런데,by the way/ but then
+포도,grape
 배,pear/ stomach/ boat
 수박,watermelon
 그렇지만,but/ however
@@ -138,6 +141,7 @@ Front,Back
 밤,night/ chestnut
 시험,exam/ test
 받다,to receive/ accept/ to take
+잔,cup/ glass
 모르다,to not know
 나오다,to come out
 초콜릿,chocolate
@@ -145,6 +149,7 @@ Front,Back
 수요일,Wednesday
 목요일,Thursday
 그럼,then/ if so/ that's right
+아주,very much
 식당,restaurant/ cafeteria/ diner
 병원,hospital
 닫다,to close
@@ -155,6 +160,7 @@ Front,Back
 수업,class/ instruction
 지하철,subway
 중요하다,to be important
+까만색,black
 개,dog/ thing (count.)
 연필,pencil
 몇,how many
@@ -203,11 +209,13 @@ Front,Back
 자전거,bicycle
 찍다,to take a picture/ to mark/ stamp/ dip into/ chop
 사진,picture/ photo
+편지,letter/ note
 계획,plan/ project
 알다,to know/ understand
 가깝다,to be close
 주말,weekend
 백화점,department store
+서점,bookstore
 회사,company/ corporation
 오전,before noon
 힘들다,to be difficult/ tiring/ painful
@@ -222,6 +230,7 @@ Front,Back
 오후,after noon
 다르다,to be different
 부르다,to call/ to call out
+먼저,first/ ahead
 같다,to be the same (as)/ to look like/ seem like
 어렵다,to be difficult/ hard
 모두,all together/ everyone
@@ -233,15 +242,21 @@ Front,Back
 작다,to be small
 맞다,to be correct/ to be hit/ struck
 맛,taste/ flavor
+졸업하다,to graduate
 월,month
+잠시,a short while
 그렇다,to be so (like that)
 문제,problem/ question
+부엌,kitchen
 공원,park
 불,fire/ light
 돕다,to help
 약속,appointment/ promise
 못하다,to be unable to do
 가지다,to posess (have)
+왼쪽,left side
+길,street/ road
+유명하다,to be famous
 택시,taxi
 곳,place
 할머니,grandmother
@@ -249,6 +264,7 @@ Front,Back
 말다,to not do/ to put into soup/ to roll
 보내다,to send/ to pass (spend) time
 위,above/ top/ senior/ stomach
+무겁다,to be heavy
 책상,desk
 앞,the front
 축하하다,to congratulate
@@ -264,10 +280,12 @@ Front,Back
 달,month/ moon
 인사하다,to greet/ to say goodbye
 요즘,these days
+교실,classroom
 제,my
 다시,again
 자동차,car
 되다,to become/ get/ turn into
+동안,during/ interval
 아버지,father
 외국,foreign country
 재미있다,to be fun/ interesting
@@ -278,6 +296,7 @@ Front,Back
 우리,we (informal)
 년,year
 딸,daughter
+이렇게,like this/ in this way
 열심히,diligently/ passionately
 대답,answer
 전,before/ prior to
@@ -298,11 +317,15 @@ Front,Back
 공책
 모자,hat/ cap/ mother and son
 겨울,winter
+물건,thing/ object/ article
 많다,to be many/ to be plenty
+값,price/ cost
 미안하다,to be sorry (less formal)
 라면,ramen
+바꾸다,to change/ switch/ alter
 신발,shoes/ footwear
-걸리다,to take time/ to hang;
+걸리다
+넓다,to be wide/ spacious
 방학,school holiday
 시원하다,to be cool/ refreshing
 가수,singer
@@ -312,17 +335,23 @@ Front,Back
 치다,to play a game/ to hit/ attack
 타다,to ride/ get in/ to burn/ be tanned
 깨끗하다,to be clean
+연습하다,to practice/ train
+병,bottle/ sickness/ disease
 늦다,to be late
 문,door
 반,half/ group/ class
 세수하다,to wash one's face
 걷다,to walk
 필요하다,to need
+인터넷,internet
 열다,to open
+켜다,to turn on/ switch on
 놓다,to lay/ put/ place/ to let go
 식사,meal
+약국,pharmacy
+지나다
 배우,actor
-구경하다,to go sightseeing/ look around/ to see
+구경하다,to go sightseeing/ look around/ to see/ watch (a show/ movie/ play/ sports game etc.)
 할아버지,grandfather
 누나,older sister (of a male)
 계시다,to exist (hon.)
@@ -332,17 +361,26 @@ Front,Back
 내리다,to come down/ put down/ to get out of/ to take off
 따뜻하다,to be warm/ kind
 날,day/ date/ edge
+산,mountain
 초대하다,to invite
+바다,sea/ ocean
 과일,fruit
 나라,country/ nation
 어느,which
+기분,mood/ feeling
+며칠,several days/ day of the month
 작년,last year
+실례하다,to be excused
 잠깐,for a little while
 좀,a little/ kindly/ certainly
+높다,to be high/ to be noble
+짜다,to be salty/ to make/ build/ organize/ to squeeze
+낮다,to be low
 짧다,to be short
 바나나,banana
 언니,older sister (of a female)
 오빠,older brother (of a female)
+출발하다,to depart/ leave
 고맙다,to be thankful/ grateful
 처음,first/ at first/ first time
 창문,window
@@ -351,6 +389,7 @@ Front,Back
 남편,husband
 시간,time/ hours
 몸,body/ figure
+밑,the bottom/ below
 이번,this time
 생활,life/ living/ livelihood
 사용하다,to use/ make use of
@@ -360,10 +399,14 @@ Front,Back
 아빠,dad
 가을,autumn
 죄송하다,to be sorry/ feel guilty
+꼭,certainly/ for sure
+그리다,to draw a picture
 하지만,but/ though
 잘하다,to do well/ be skillful
 살,years of age (count.)/ flesh/ muscle
 지내다,to spend time/ to pursue/ to associate with
+주소,address/ residence
+친절하다,to be kind/ considerate
 전화하다,to make a phone call
 안녕히,peacefully/ safely
 기차,train
@@ -373,12 +416,16 @@ Front,Back
 아파트,apartment building
 게임,game
 팔,arm
+들다,to get in/ be in/ to carry/ hold/ to lift/ raise
+드리다,to give/ offer (hon.)
 배고프다,to be hungry
+축구,football (soccer)
 소개하다,to introduce/ recommend
 또,again/ repeatedly/ also/ too
 시계,clock/ watch
 이쪽,this side/ our side
 안녕하다,to be well/ be in good health
+지갑,wallet/ purse
 없다,to not exist/ to not have
 파티,party (social gathering)
 카드,card
@@ -390,6 +437,8 @@ Front,Back
 불고기,marinated beef
 메뉴,menu
 집,house/ home/ family
+태권도,Taekwondo
+끄다,to put out/ turn off
 언제,when
 너,you (informal)
 일월,January
@@ -399,9 +448,11 @@ Front,Back
 쇼핑,shopping
 일,work/ matter/ day
 갈비,barbecued spare ribs
+제주도,Jeju Island
 나,I (informal)
+거실,living room
 감사하다,to be thankful/ thank/ appreciate
-무엇,what/ which/ something 
+무엇,what/ which/ something (the unshortened form of 뭐)
 그,that (before nouns)
 맛있다,to be delicious/ tasty
 아니다,to not be
@@ -409,8 +460,10 @@ Front,Back
 명,counter for people
 영국,United Kingdom
 김치,kimchi (traditional Korean dish made of seasoned vegetables and other ingredients)
+비빔밥,boiled rice with assorted mixtures
 냉면,cold noodles
 김밥,Korean dried seaweed rice rolls
+그러니까,therefore/ consequently
 들어가다,to enter/ go in
 대학,university
 떡볶이,rice-stick with vegetables
@@ -419,6 +472,7 @@ Front,Back
 저기,over there
 저쪽,that side/ over there
 생각,thought/ idea
+잡채,noodles with sauteed vegetables
 이거,this thing
 오월,May
 유월,June
@@ -431,7 +485,12 @@ Front,Back
 팔월,August
 구월,September
 시월,October
+십일월,November
+십이월,December
+지난주,last week
 건강하다,to be healthy
+대학생,college student
+티셔츠,T-shirt
 중국,China
 파란색,blue
 일주일,one week
