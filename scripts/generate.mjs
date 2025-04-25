@@ -1,7 +1,7 @@
 import fs from "node:fs/promises";
 import path from "path";
 
-const NUM_OF_FLASHCARDS_PER_PATTERN = 3;
+const NUM_OF_FLASHCARDS_PER_PATTERN = 2;
 
 try {
   const vocabPathFile = path.join(process.cwd(), "/data/vocab.csv");
