@@ -1,4 +1,4 @@
-The following is a CSV of 497 Korean vocabulary words. The first column is the word and the second column is the English meaning of the word. Please wait for my next command.
+The following is a CSV of 497 Korean vocabulary word list. The first column is the word and the second column is the English meaning of the word. Please wait for my next command.
 
 차,tea/ car
 사과,apple/ apology
@@ -498,7 +498,7 @@ The following is a CSV of 497 Korean vocabulary words. The first column is the w
 일주일,one week
 맛없다,to be tasteless/ unsavory
 
-The following is a CSV of 75 Korean sentence patterns. The first column is the Korean sentence pattern and the second column represents the English meaning. The letter N represents a noun. The letter V represents a Verb. Adj represents an adjective. The brackets represent an optional grammatical particle within the sentence. Please wait for my next command.
+The following is a CSV of 75 Korean sentence patterns list. The first column is the Korean sentence pattern and the second column represents the English meaning. The letter N represents a noun. The letter V represents a Verb. Adj represents an adjective. The brackets represent an optional grammatical particle within the sentence. Please wait for my next command.
 
 저는 N-이에요/예요.,I'm N.
 N-이에요/예요.,It's N.
@@ -576,8 +576,6 @@ V-고 있어요?,Are you V-ing?
 V-는 중이에요.,I’m V-ing. / I’m in the middle of V-ing.
 V-(으)ᄅ 거예요.,I will V. / I’m going to V.
 
-For each sentence pattern, create 2 flashcards based on random vocabulary words from the provided list. As there are 75 sentence patterns, there should be a total of 150 generated flashcards. 
-
-It is important to note that the front should contain an interesting, conversational Korean sentence with correct grammar. The back contains its English meaning. The flashcards should only be based from the vocabulary list provided and the sentence patterns provided. Ensure that each vocabulary word is used only once across all flashcards. 
+For every single sentence pattern, create 2 flashcards based on random vocabulary words from the provided vocabulary word list. As there are 75 sentence patterns, there should be a total of 150 created flashcards. It is imperative to note that the front should contain an interesting, conversational Korean sentence with correct grammar. The back contains its English meaning. The flashcards should only be based from the vocabulary list provided and the sentence patterns provided. It is important that the vocabulary word is used only once across all flashcards. 
 
 Can you provide the flashcards in CSV format that I can import to Anki?
