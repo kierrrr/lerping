@@ -576,6 +576,8 @@ V-고 있어요?,Are you V-ing?
 V-는 중이에요.,I’m V-ing. / I’m in the middle of V-ing.
 V-(으)ᄅ 거예요.,I will V. / I’m going to V.
 
-For each sentence pattern, create 2 flashcards based on random vocabulary words from the provided list. As there are 75 sentence patterns, there should be a total of 150 generated flashcards. It is important to note that the front should contain an interesting, conversational Korean sentence with correct grammar. The back contains its English meaning. The flashcards should only be based from the vocabulary list provided and the sentence patterns provided. Ensure that each vocabulary word is used only once across all flashcards.
+For each sentence pattern, create 2 flashcards based on random vocabulary words from the provided list. As there are 75 sentence patterns, there should be a total of 150 generated flashcards. 
+
+It is important to note that the front should contain an interesting, conversational Korean sentence with correct grammar. The back contains its English meaning. The flashcards should only be based from the vocabulary list provided and the sentence patterns provided. Ensure that each vocabulary word is used only once across all flashcards. 
 
 Can you provide the flashcards in CSV format that I can import to Anki?

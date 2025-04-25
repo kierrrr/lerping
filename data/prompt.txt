@@ -4,6 +4,8 @@ The following is a CSV of {{vocab_num}} Korean vocabulary words. The first colum
 The following is a CSV of {{patterns_num}} Korean sentence patterns. The first column is the Korean sentence pattern and the second column represents the English meaning. The letter N represents a noun. The letter V represents a Verb. Adj represents an adjective. The brackets represent an optional grammatical particle within the sentence. Please wait for my next command.
 
 {{patterns}}
-For each sentence pattern, create {{flashcards_num}} flashcards based on random vocabulary words from the provided list. As there are {{patterns_num}} sentence patterns, there should be a total of {{flashcards_total}} generated flashcards. It is important to note that the front should contain an interesting, conversational Korean sentence with correct grammar. The back contains its English meaning. The flashcards should only be based from the vocabulary list provided and the sentence patterns provided. Ensure that each vocabulary word is used only once across all flashcards.
+For each sentence pattern, create {{flashcards_num}} flashcards based on random vocabulary words from the provided list. As there are {{patterns_num}} sentence patterns, there should be a total of {{flashcards_total}} generated flashcards. 
+
+It is important to note that the front should contain an interesting, conversational Korean sentence with correct grammar. The back contains its English meaning. The flashcards should only be based from the vocabulary list provided and the sentence patterns provided. Ensure that each vocabulary word is used only once across all flashcards. 
 
 Can you provide the flashcards in CSV format that I can import to Anki?
