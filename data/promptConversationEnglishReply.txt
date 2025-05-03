@@ -1,4 +1,4 @@
-The following is a JSON of {{vocab_num}} Korean vocabulary word list. The first column is the word and the second column is the English meaning of the word.
+The following is a JSON of {{vocab_num}} Korean vocabulary words. The key is the Korean word and the value is the English meaning of the word.
 
 ```
 {{vocab}}

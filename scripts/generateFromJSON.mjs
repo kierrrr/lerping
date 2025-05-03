@@ -35,17 +35,10 @@ try {
     )
     .replace("{{epoch}}", Date.now());
 
-  console.log(finalPromptConversation);
-
-  // await fs.writeFile(
-  //   path.join(process.cwd(), "/output/prompt.txt"),
-  //   finalPrompt,
-  // );
-  //
-  // await fs.writeFile(
-  //   path.join(process.cwd(), "/output/promptConversation.txt"),
-  //   finalPromptConversation,
-  // );
+  await fs.writeFile(
+    path.join(process.cwd(), "/output/promptConversation.txt"),
+    finalPromptConversation,
+  );
   console.log("DONE");
 } catch (err) {
   console.error(err);
