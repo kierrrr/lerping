@@ -50,6 +50,7 @@ N(-을/를) 본 적 있어요?,Have you ever seen/watched N?
 N(-에) 가 본 적 있어요?,Have you ever been to N?
 N(-을/를) 먹어 본 적 있어요?,Have you ever eaten N?
 N(-을/를) 완전 기대 중이에요.,I'm really looking forward to N.
+N-한테/에 물어보세요.,Please ask N.
 N-이/가 어떻게 생겼어요?,What does N look like?
 N-은/는 어떻게 됐어요?,What happened to N? / How did N turn out?
 N-이/가 필요할 거 같아요.,I think I/you/we need N.
@@ -73,3 +74,19 @@ V-고 있어요.,I'm V-ing.
 V-고 있어요?,Are you V-ing?
 V-는 중이에요.,I’m V-ing. / I’m in the middle of V-ing.
 V-(으)ᄅ 거예요.,I will V. / I’m going to V.
+V-(으)ᄅ 거예요?,Will you V? / Are you going to V?
+왜 Adj-다고 생각해요?,Why do you think I'm/It's Adj?
+왜 Adj-(으)ᄅ 거라고 생각해요?,Why do you think I/it would be Adj?
+좀 Adj-아/어/여+요.,I'm/It's kind of Adj.
+V-(으)ᄅ 수 있어요.,I can V.
+Adj-(으)ᄅ 수 있어요.,I/You/It can be Adj.
+Adj-아/어/여+질 수 있어요.,I/You/It can become Adj.
+V-지 않아요.,I don't V.
+안 V-아/어/여+요.,I don't V.
+Adj-지 않아요.,I'm/It's not Adj.
+안 Adj-아/어/여+요.,I'm/It's not Adj.
+V-지 못 해요.,I can't V.
+못 V-아/어/여+요.,I can't V.
+Adj-(으)ᄅ 수 없어요.,I/It can't be Adj.
+Adj-아/어/여+질 수 없어요.,I/It can't get/become Adj.
+V-지 않을 거예요.,I won't V.
