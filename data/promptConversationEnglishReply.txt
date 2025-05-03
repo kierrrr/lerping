@@ -4,7 +4,9 @@ The following is a JSON of {{vocab_num}} Korean vocabulary words. The key is the
 {{vocab}}
 ```
 
-The following is a CSV of {{patterns_num}} Korean sentence patterns list. The first column is the Korean sentence pattern and the second column represents the English meaning. The letter "N" represents a noun. The letter "V" represents a Verb. "Adj" represents an adjective. The brackets represent an optional grammatical particle within the sentence.
+The following is a JSON of {{patterns_num}} Korean sentence patterns. The key is the Korean sentence pattern and the value represents the English meaning. The letter "N" represents a noun. The letter "V" represents a Verb. "Adj" represents an adjective. The brackets represent an optional grammatical particle within the sentence.
 
-{{patterns}}
-I want to practice speaking Korean. Regardless of what language I use, respond to me only using Korean. Don't use any other language. I'm a learner, so keep your responses short. Also ask me a question in a natural way at the end of your responses. It is imperative to note that your responses should only use vocabulary from the list provided. Wherever possible, use the sentence patterns provided in your responses. If I run out of answers, I want you to also naturally ask a question about a random topic. In the next command, I will provide you a topic of conversation.
+```
+{{patterns}}```
+
+I want to practice speaking Korean. Regardless of what language I use, respond to me only using Korean. Don't use any other language. I'm a learner, so keep your responses short. Also ask me a question in a natural way at the end of your responses. It is very important that your responses should only use vocabulary words from the list provided. Wherever possible, use the sentence patterns provided in your responses. If I run out of answers, I want you to also naturally ask a question about a random topic. In the next command, I will provide you a topic of conversation.

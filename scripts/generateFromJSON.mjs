@@ -5,7 +5,7 @@ const NUM_OF_FLASHCARDS_PER_PATTERN = 2;
 
 try {
   const vocabPathFile = path.join(process.cwd(), "/data/vocab.json");
-  const patternsPathFile = path.join(process.cwd(), "/data/patterns.csv");
+  const patternsPathFile = path.join(process.cwd(), "/data/patterns.json");
   const promptConversationFile = path.join(
     process.cwd(),
     "/data/promptConversationEnglishReply.txt",
@@ -21,7 +21,8 @@ try {
 
   const vocabObj = JSON.parse(vocabData);
   const numberOfVocab = Object.keys(vocabObj).length;
-  const numberOfPatterns = patternsData.split("\n").length - 1;
+  const patternsObj = JSON.parse(patternsData);
+  const numberOfPatterns = Object.keys(patternsObj).length;
 
   const finalPromptConversation = promptConversationData
     .replaceAll("{{vocab_num}}", numberOfVocab)
