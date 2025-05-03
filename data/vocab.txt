@@ -108,6 +108,7 @@
 혼자	alone
 정말	really, seriously   正-
 입다	to put on, wear
+아기	baby
 여자	woman, female   女子
 생일	birthday   生日
 치마	skirt
@@ -207,6 +208,7 @@
 덥다	to be hot (regarding the weather)
 운전하다	to drive   運轉
 잘못하다	to make a mistake
+빌리다	to borrow
 숙제	homework   宿題
 자전거	bicycle   自轉車
 찍다	to take a picture; to mark, stamp, dip into, chop
@@ -214,6 +216,7 @@
 편지	letter, note   便紙·片紙
 계획	plan, project   計劃
 알다	to know, understand
+빨간색	red
 가깝다	to be close
 주말	weekend   週末
 백화점	department store   百貨店
@@ -229,12 +232,14 @@
 아프다	to be sick; to hurt, ache
 예쁘다	to be pretty, charming
 봄	spring
+맑다	to be clear, clean
 오후	after noon   午後
 다르다	to be different
 부르다	to call, to call out
 먼저	first, ahead
 같다	to be the same (as); to look like, seem like
 어렵다	to be difficult, hard
+독일	Germany   獨逸
 모두	all together, everyone
 층	floor (count.)   層
 싫다	to not like, to not want to do
@@ -244,31 +249,38 @@
 작다	to be small
 맞다	to be correct; to be hit, struck
 맛	taste, flavor
+나무	tree; wood
 졸업하다	to graduate   卒業
 월	month   月
 잠시	a short while   暫時
 그렇다	to be so (like that)
 문제	problem, question   問題
+조심하다	to be careful, watch out   操心
 부엌	kitchen
 공원	park   公園
 불	fire; light
 돕다	to help
+침대	bed   寢臺
 약속	appointment; promise   約束
 못하다	to be unable to do
 가지다	to posess (have)
 왼쪽	left side
 길	street, road
 유명하다	to be famous   有名
+멋있다	to be attractive, stylish, cool
 택시	taxi
 곳	place
+여러	many, several
 할머니	grandmother
 설명하다	to explain   說明
 말다	to not do; to put into soup; to roll
+걱정하다	to worry
 보내다	to send; to pass (spend) time
 위	above, top, senior; stomach   胃
 무겁다	to be heavy
 책상	desk   冊床
 앞	the front
+아래	under
 축하하다	to congratulate   祝賀
 뒤	behind
 구두	dress shoes
@@ -277,6 +289,8 @@
 아들	son
 옆	beside, next to
 안	inside, within; not; proposal   案
+소금	salt
+별로	not particularly   別-
 키	height
 너무	too (much)
 달	month, moon
@@ -290,7 +304,10 @@
 동안	during, interval
 아버지	father
 외국	foreign country   外國
+약	drug, medicine; approximately   藥, 約
+외국어	foreign language   外國語
 재미있다	to be fun, interesting
+계속	continuously   繼續
 어머니	mother
 다음	the next, the following
 역	train station; part in a play   驛, 役
@@ -309,14 +326,17 @@
 마음	mind, heart, nature
 조용하다	to be quiet
 반갑다	to be glad, happy, pleased
+건강	health   健康
 부모님	parents   父母-
+휴가	vacation   休暇
 밖	the outside
 다니다	to go (frequently), to attend, work for
 계속하다	to continue   繼續
 울다	to cry
 꽃	flower
 볼펜	ballpoint pen
-공책  공책에 사진이 있어요	notebook  There is a picture in  the notebook   空冊
+공책	notebook  공책에 사진이 있어요 = There is a picture in  the notebook   空冊
+주인	owner, employer   主人
 모자	hat, cap; mother and son   帽子, 母子
 겨울	winter
 물건	thing, object, article   物件
@@ -348,6 +368,8 @@
 인터넷	internet
 열다	to open
 켜다	to turn on, switch on
+묻다	to ask; to stick to, be stained; to bury
+바람	wind, breeze; wish, desire
 놓다	to lay, put, place; to let go
 식사	meal   食事
 약국	pharmacy   藥局
@@ -357,8 +379,10 @@
 할아버지	grandfather
 누나	older sister (of a male)
 계시다	to exist (hon.)
+비행기	airplane   飛行機
 달다	to be sweet; to put up, attach; to weigh, measure
 여름	summer
+야구	baseball   野球
 어떤	some, certain; what kind of
 내리다	to come down, put down; to get out of; to take off
 따뜻하다	to be warm, kind
@@ -367,7 +391,9 @@
 초대하다	to invite   招待
 바다	sea, ocean
 과일	fruit
+번호	number   番號
 나라	country, nation
+이따가	a little later
 어느	which
 기분	mood, feeling   氣分
 며칠	several days; day of the month
@@ -394,57 +420,84 @@
 밑	the bottom, below
 이번	this time   -番
 생활	life, living, livelihood   生活
+사이	relationship; distance apart
+넣다	to put in, insert
+생기다	to occur, happen; to look; to form
 사용하다	to use, make use of   使用
 그래	yes, okay
 입	mouth
-그림  이건 아주 유명한 그림이에요	drawing, painting  This is a very famous painting.
+그림	drawing, painting  이건 아주 유명한 그림이에요 = This is a very famous painting.
 아빠	dad
 가을	autumn
+부탁하다	to request, ask a favor   付託
 죄송하다	to be sorry, feel guilty   罪悚
 꼭	certainly, for sure
 그리다	to draw a picture
 하지만	but, though
 잘하다	to do well, be skillful
+그렇게	so, like that
+발	foot
 살	years of age (count.); flesh, muscle
 지내다	to spend time; to pursue; to associate with
+예	example; yes   例
 주소	address, residence   住所
+파랗다	to be blue
 친절하다	to be kind, considerate   親切
+돌아오다	to come back, return
+에어컨	air conditioner
 전화하다	to make a phone call   電話
 안녕히	peacefully; safely   安寧
 기차	train   汽車
+말씀하시다	to speak, talk (hon.)
 괜찮다	to be okay
 남동생	younger brother   男--
 물어보다	to ask, question
+돌아가다	to go back, return; to work, operate
 아파트	apartment building
 게임	game
 팔	arm
+영화관	movie theater   映畫館
 들다	to get in, be in; to carry, hold; to lift, raise
 드리다	to give, offer (hon.)
+근처	nearby   近處
+가볍다	to be light (as opposed to heavy)
+코	nose
 배고프다	to be hungry
+교통	traffic   交通
 축구	football (soccer)   蹴球
 소개하다	to introduce, recommend   紹介
+박물관	museum   博物館
 또	again, repeatedly; also, too
 시계	clock, watch   時計
+못	not; nail
+다녀오다	to go and get back, be back
 이쪽	this side, our side
+내년	next year   來年
 안녕하다	to be well, be in good health   安寧
 지갑	wallet; purse   紙匣
+표	ticket; table, diagram; mark, sign   票, 表
+드라마	TV series
 없다	to not exist; to not have
 파티	party (social gathering)
 카드	card
 도와주다	to help out, assist
 호텔	hotel
+운동장	field, (school) stadium; playground   運動場
 때	time; when; occasion; dirt
 안경	glasses, eyeglasses   眼鏡
 이	tooth; this
+신다	to put on, wear (footwear)
 불고기	marinated beef
 메뉴	menu
 집	house, home, family
+정류장	stop, station (bus etc.)   停留場
 태권도	Taekwondo   跆拳道
 끄다	to put out, turn off
 언제	when
 너	you (informal)
 일월	January   一月
 동생	younger sibling, younger friend
+특별하다	to be special, extraordinary   特別
 무슨	which/what (+ noun)
 등산	hiking, mountain climbing   登山
 쇼핑	shopping
@@ -462,17 +515,22 @@
 명	counter for people   名
 영국	United Kingdom   英國
 김치	kimchi (traditional Korean dish made of seasoned vegetables and other ingredients)
+컵	cup
 비빔밥	boiled rice with assorted mixtures
 냉면	cold noodles   冷麵
+어떻다	to be the manner in which something is done
 김밥	Korean dried seaweed rice rolls
 그러니까	therefore, consequently
 들어가다	to enter, go in
 대학	university   大學
+부산	Busan   釜山
 떡볶이	rice-stick with vegetables
 하얀색	white
 재미없다	to be boring, dull
 저기	over there
 저쪽	that side, over there
+그쪽	that, that way; you
+요일	day of the week   曜日
 생각	thought, idea
 잡채	noodles with sauteed vegetables   雜菜
 이거	this thing
@@ -494,6 +552,8 @@
 대학생	college student   大學生
 티셔츠	T-shirt
 중국	China   中國
+김치찌개	kimchi stew
 파란색	blue
 일주일	one week   一週日
 맛없다	to be tasteless, unsavory
+갈비탕	beef rib soup
