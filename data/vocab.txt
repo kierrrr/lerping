@@ -208,6 +208,7 @@
 덥다	to be hot (regarding the weather)
 운전하다	to drive   運轉
 잘못하다	to make a mistake
+글	writing, a piece of writing, text
 빌리다	to borrow
 숙제	homework   宿題
 자전거	bicycle   自轉車
@@ -295,6 +296,7 @@
 너무	too (much)
 달	month, moon
 인사하다	to greet; to say goodbye   人事
+흐리다	to be cloudy
 요즘	these days
 교실	classroom   敎室
 제	my
@@ -314,6 +316,7 @@
 나가다	to go out
 우리	we (informal)
 년	year   年
+바로	right there; directly
 딸	daughter
 이렇게	like this, in this way
 열심히	diligently, passionately   熱心
@@ -346,7 +349,7 @@
 라면	ramen
 바꾸다	to change, switch, alter
 신발	shoes, footwear
-걸리다  감기에 걸렸어요	to take time; to hang;  to be caught   I caught a cold
+걸리다	to take time; to hang;  to be caught   감기에 걸렸어요 = I caught a cold
 넓다	to be wide, spacious
 방학	school holiday   放學
 시원하다	to be cool, refreshing
@@ -354,6 +357,7 @@
 감기	cold (the illness)   感氣
 씻다	to wash
 손	hand
+대화	conversation   對話
 치다	to play a game; to hit, attack
 타다	to ride, get in; to burn, be tanned
 깨끗하다	to be clean
@@ -373,7 +377,7 @@
 놓다	to lay, put, place; to let go
 식사	meal   食事
 약국	pharmacy   藥局
-지나다  웨이터가 지나갔어요	to pass, go by  The waiter passed by
+지나다	to pass, go by  웨이터가 지나갔어요 = The waiter passed by
 배우	actor   俳優
 구경하다	to go sightseeing, look around; to see, watch (a show, movie, play, sports game etc.)
 할아버지	grandfather
@@ -458,6 +462,7 @@
 팔	arm
 영화관	movie theater   映畫館
 들다	to get in, be in; to carry, hold; to lift, raise
+그릇	bowl, container
 드리다	to give, offer (hon.)
 근처	nearby   近處
 가볍다	to be light (as opposed to heavy)
@@ -467,6 +472,7 @@
 축구	football (soccer)   蹴球
 소개하다	to introduce, recommend   紹介
 박물관	museum   博物館
+어서	please, kindly; quickly
 또	again, repeatedly; also, too
 시계	clock, watch   時計
 못	not; nail
@@ -474,6 +480,7 @@
 이쪽	this side, our side
 내년	next year   來年
 안녕하다	to be well, be in good health   安寧
+계절	season   季節
 지갑	wallet; purse   紙匣
 표	ticket; table, diagram; mark, sign   票, 表
 드라마	TV series
@@ -492,6 +499,7 @@
 집	house, home, family
 정류장	stop, station (bus etc.)   停留場
 태권도	Taekwondo   跆拳道
+사귀다	to date, go out; to make friends with, keep company with
 끄다	to put out, turn off
 언제	when
 너	you (informal)
@@ -499,6 +507,7 @@
 동생	younger sibling, younger friend
 특별하다	to be special, extraordinary   特別
 무슨	which/what (+ noun)
+주무시다	to sleep (hon.)
 등산	hiking, mountain climbing   登山
 쇼핑	shopping
 일	work, matter; day   日
@@ -533,6 +542,7 @@
 요일	day of the week   曜日
 생각	thought, idea
 잡채	noodles with sauteed vegetables   雜菜
+남대문	the South Gate   南大門
 이거	this thing
 오월	May   五月
 유월	June   六月
