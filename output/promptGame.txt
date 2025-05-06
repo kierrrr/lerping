@@ -1,0 +1,81 @@
+The following is a JSON of 50 Korean vocabulary words. The key is the Korean word and the value is the English meaning of the word.
+
+```
+{
+  "눈": "eye/ snow",
+  "얼굴": "face",
+  "그렇다": "to be so (like that)",
+  "하다": "to do",
+  "세수하다": "to wash one's face",
+  "운동장": "field/ (school) stadium/ playground",
+  "뒤": "behind",
+  "일어나다": "to wake up/ get up/ to happen",
+  "유명하다": "to be famous",
+  "키": "height",
+  "시월": "October",
+  "계절": "season",
+  "길": "street/ road",
+  "어제": "yesterday",
+  "취미": "hobby",
+  "아내": "wife",
+  "영국": "United Kingdom",
+  "지내다": "to spend time/ to pursue/ to associate with",
+  "늦게": "late",
+  "무겁다": "to be heavy",
+  "요리": "cooking/ dish",
+  "깨끗하다": "to be clean",
+  "알다": "to know/ understand",
+  "곳": "place",
+  "자전거": "bicycle",
+  "선생님": "teacher",
+  "돈": "money",
+  "주소": "address/ residence",
+  "손": "hand",
+  "돕다": "to help",
+  "사다": "to buy",
+  "나중에": "later",
+  "하지만": "but/ though",
+  "컵": "cup",
+  "잠시": "a short while",
+  "운동하다": "to work out/ to exercise",
+  "다녀오다": "to go and get back/ be back",
+  "노래하다": "to sing",
+  "밥": "rice (cooked)/ meal",
+  "영화관": "movie theater",
+  "이쪽": "this side/ our side",
+  "비싸다": "to be expensive",
+  "바쁘다": "to be busy",
+  "졸업하다": "to graduate",
+  "오후": "after noon",
+  "아침": "morning/ breakfast",
+  "되다": "to become/ get/ turn into",
+  "의사": "doctor/ physician/ intention/ idea",
+  "수요일": "Wednesday",
+  "할머니": "grandmother"
+}
+```
+
+The following is a JSON of 10 Korean sentence patterns. The key is the Korean sentence pattern and the value represents the English meaning. The letter "N" represents a noun. The letter "V" represents a Verb. "Adj" represents an adjective. The brackets represent an optional grammatical particle within the sentence.
+
+```
+{
+  "N-한테/에 물어보세요.": "Please ask N.",
+  "왜 Adj-다고 생각해요?": "Why do you think I'm/It's Adj?",
+  "N-은/는 어느 쪽이에요?": "Which way is N?",
+  "N(-을/를) (이미) 알고 있어요.": "I’m (already) aware of N.",
+  "Adj-지 않아요.": "I'm/It's not Adj.",
+  "N1-을/를 보면 N2-이/가 생각나요.": "'When I see N1, I think of N2.'",
+  "N1-이/가 더 좋아요": "'아니면 N2-이/가 더 좋아요?, Which do you prefer, N1 or N2?'",
+  "좀 Adj-아/어/여+요.": "I'm/It's kind of Adj.",
+  "N(-을/를) 갖고 싶어요.": "I want to have N.",
+  "N(-을/를) 완전 기대 중이에요.": "I'm really looking forward to N."
+}```
+
+Let's play a game. 
+
+First, from the list of vocabulary words, provide a random set of 4 verbs and 4 nouns. From the list of sentence patterns, provide one random sentence pattern. Do not provide the English meaning.
+Second, I will construct a sentence from the given verbs, nouns and sentence patterns.
+Third, check if the sentence is grammatically correct and is conversational. Provide suggestions if it is not.
+Fourth, provide a random set of 4 verbs, and 4 nouns and a sentence pattern again. It is important to note that the verbs, nouns and sentence patterns used only occur once within every turns.
+
+Let's start the game.

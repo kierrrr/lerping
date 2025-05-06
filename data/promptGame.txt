@@ -1,0 +1,19 @@
+The following is a JSON of {{vocab_num}} Korean vocabulary words. The key is the Korean word and the value is the English meaning of the word.
+
+```
+{{vocab}}
+```
+
+The following is a JSON of {{patterns_num}} Korean sentence patterns. The key is the Korean sentence pattern and the value represents the English meaning. The letter "N" represents a noun. The letter "V" represents a Verb. "Adj" represents an adjective. The brackets represent an optional grammatical particle within the sentence.
+
+```
+{{patterns}}```
+
+Let's play a game. 
+
+First, from the list of vocabulary words, provide a random set of 4 verbs and 4 nouns. From the list of sentence patterns, provide one random sentence pattern. Do not provide the English meaning.
+Second, I will construct a sentence from the given verbs, nouns and sentence patterns.
+Third, check if the sentence is grammatically correct and is conversational. Provide suggestions if it is not.
+Fourth, provide a random set of 4 verbs, and 4 nouns and a sentence pattern again. It is important to note that the verbs, nouns and sentence patterns used only occur once within every turns.
+
+Let's start the game.
