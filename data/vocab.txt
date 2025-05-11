@@ -50,6 +50,7 @@
 적다	to be few, little;to write down, fill out
 끝나다	to end, be over
 팔다	to sell
+회사원	company employee (in an office)   會社員
 어디	where
 한국	Korea   韓國
 지금	now   只今
@@ -122,6 +123,7 @@
 그리고	and
 빵	bread
 그래서	therefore
+프랑스	France
 많이	a lot, many, plenty
 같이	together
 춤추다	to dance
@@ -230,6 +232,7 @@
 아름답다	to be beautiful
 춥다	to be cold (regarding the weather)
 맵다	to be spicy, hot; to be intense
+귀엽다	to be cute
 아프다	to be sick; to hurt, ache
 예쁘다	to be pretty, charming
 봄	spring
@@ -256,7 +259,9 @@
 잠시	a short while   暫時
 그렇다	to be so (like that)
 문제	problem, question   問題
+고르다	to choose, pick; to be regular, even
 조심하다	to be careful, watch out   操心
+모레	the day after tomorrow
 부엌	kitchen
 공원	park   公園
 불	fire; light
@@ -264,6 +269,7 @@
 침대	bed   寢臺
 약속	appointment; promise   約束
 못하다	to be unable to do
+속	inside
 가지다	to posess (have)
 왼쪽	left side
 길	street, road
@@ -272,6 +278,7 @@
 택시	taxi
 곳	place
 여러	many, several
+글쎄	well, let me see
 할머니	grandmother
 설명하다	to explain   說明
 말다	to not do; to put into soup; to roll
@@ -282,12 +289,14 @@
 책상	desk   冊床
 앞	the front
 아래	under
+냉장고	refrigerator   冷藏庫
 축하하다	to congratulate   祝賀
 뒤	behind
 구두	dress shoes
 질문	question   質問
 시작하다	to start, begin   始作
 아들	son
+날짜	date (in a calendar)
 옆	beside, next to
 안	inside, within; not; proposal   案
 소금	salt
@@ -301,6 +310,7 @@
 교실	classroom   敎室
 제	my
 다시	again
+편의점	convenience store   便宜店
 자동차	car   自動車
 되다	to become, get, turn into  한국어를 잘하게 되고 싶어요.  = I want to become good at Korean
 동안	during, interval
@@ -309,6 +319,7 @@
 약	drug, medicine; approximately   藥, 約
 외국어	foreign language   外國語
 재미있다	to be fun, interesting
+산책하다	to take a walk   散策
 계속	continuously   繼續
 어머니	mother
 다음	the next, the following
@@ -316,6 +327,7 @@
 나가다	to go out
 우리	we (informal)
 년	year   年
+가장	the most (more formal than 제일)
 바로	right there; directly
 딸	daughter
 이렇게	like this, in this way
@@ -329,11 +341,13 @@
 마음	mind, heart, nature
 조용하다	to be quiet
 반갑다	to be glad, happy, pleased
+생선	fish (for eating)   生鮮
 건강	health   健康
 부모님	parents   父母-
 휴가	vacation   休暇
 밖	the outside
 다니다	to go (frequently), to attend, work for
+항상	always   恒常
 계속하다	to continue   繼續
 울다	to cry
 꽃	flower
@@ -349,6 +363,7 @@
 라면	ramen
 바꾸다	to change, switch, alter
 신발	shoes, footwear
+열쇠	key
 걸리다	to take time; to hang;  to be caught   감기에 걸렸어요 = I caught a cold
 넓다	to be wide, spacious
 방학	school holiday   放學
@@ -357,6 +372,7 @@
 감기	cold (the illness)   感氣
 씻다	to wash
 손	hand
+연락하다	to contact, keep in touch   連絡
 대화	conversation   對話
 치다	to play a game; to hit, attack
 타다	to ride, get in; to burn, be tanned
@@ -368,6 +384,7 @@
 반	half; group, class   半, 班
 세수하다	to wash one's face   洗手
 걷다	to walk
+복잡하다	to be crowded; to be complicated   複雜
 필요하다	to need   必要
 인터넷	internet
 열다	to open
@@ -376,19 +393,25 @@
 바람	wind, breeze; wish, desire
 놓다	to lay, put, place; to let go
 식사	meal   食事
+회의	meeting, conference   會議
 약국	pharmacy   藥局
+힘	power, strength, force, capability
 지나다	to pass, go by  웨이터가 지나갔어요 = The waiter passed by
 배우	actor   俳優
 구경하다	to go sightseeing, look around; to see, watch (a show, movie, play, sports game etc.)
 할아버지	grandfather
 누나	older sister (of a male)
 계시다	to exist (hon.)
+손님	guest; customer
 비행기	airplane   飛行機
+하얗다	to be white
 달다	to be sweet; to put up, attach; to weigh, measure
 여름	summer
+참	very, really
 야구	baseball   野球
 어떤	some, certain; what kind of
 내리다	to come down, put down; to get out of; to take off
+장소	place, location   場所
 따뜻하다	to be warm, kind
 날	day, date; edge
 산	mountain   山
@@ -399,6 +422,7 @@
 나라	country, nation
 이따가	a little later
 어느	which
+샤워하다	to take a shower
 기분	mood, feeling   氣分
 며칠	several days; day of the month
 작년	last year   昨年
@@ -415,9 +439,11 @@
 출발하다	to depart, leave   出發
 고맙다	to be thankful, grateful
 처음	first, at first, first time
+문화	culture   文化
 창문	window   窓門
 오른쪽	right side
 잘	well
+함께	together, in company with
 남편	husband   男便
 시간	time; hours   時間
 몸	body, figure
@@ -425,8 +451,12 @@
 이번	this time   -番
 생활	life, living, livelihood   生活
 사이	relationship; distance apart
+그때	then, at that time
+서다	to stand; to stop
 넣다	to put in, insert
+얘기	story; talk, conversation
 생기다	to occur, happen; to look; to form
+올라가다	to go up
 사용하다	to use, make use of   使用
 그래	yes, okay
 입	mouth
@@ -442,8 +472,13 @@
 그렇게	so, like that
 발	foot
 살	years of age (count.); flesh, muscle
+이유	reason, cause   理由
 지내다	to spend time; to pursue; to associate with
 예	example; yes   例
+아저씨	mister
+건물	building   建物
+걸다	to hang, suspend; to speak to, call
+다리	leg; bridge
 주소	address, residence   住所
 파랗다	to be blue
 친절하다	to be kind, considerate   親切
@@ -454,27 +489,38 @@
 기차	train   汽車
 말씀하시다	to speak, talk (hon.)
 괜찮다	to be okay
+귀	ear
 남동생	younger brother   男--
 물어보다	to ask, question
 돌아가다	to go back, return; to work, operate
 아파트	apartment building
 게임	game
+내려오다	to come down, get off
 팔	arm
+단어	word, vocabulary   單語
 영화관	movie theater   映畫館
 들다	to get in, be in; to carry, hold; to lift, raise
 그릇	bowl, container
 드리다	to give, offer (hon.)
 근처	nearby   近處
+낮	daytime
 가볍다	to be light (as opposed to heavy)
+목	neck; throat
 코	nose
 배고프다	to be hungry
 교통	traffic   交通
+불다	to blow
 축구	football (soccer)   蹴球
+차갑다	to be cold (regarding objects)
 소개하다	to introduce, recommend   紹介
 박물관	museum   博物館
 어서	please, kindly; quickly
 또	again, repeatedly; also, too
+외국인	foreigner   外國人
+지난달	last month
 시계	clock, watch   時計
+화	anger; disaster, misfortune   火, 禍
+아주머니	middle aged woman; aunt
 못	not; nail
 다녀오다	to go and get back, be back
 이쪽	this side, our side
@@ -490,29 +536,49 @@
 도와주다	to help out, assist
 호텔	hotel
 운동장	field, (school) stadium; playground   運動場
+한복	Korean dress (traditional)   韓服
 때	time; when; occasion; dirt
 안경	glasses, eyeglasses   眼鏡
 이	tooth; this
 신다	to put on, wear (footwear)
 불고기	marinated beef
+피아노	piano
 메뉴	menu
 집	house, home, family
+농구	basketball   籠球
+콜라	coke
 정류장	stop, station (bus etc.)   停留場
+가격	price   價格
+특히	especially, particularly   特-
+휴지	toilet paper, tissue; pause   休紙, 休止
 태권도	Taekwondo   跆拳道
+전공하다	to major in, specialize in   專攻
 사귀다	to date, go out; to make friends with, keep company with
 끄다	to put out, turn off
 언제	when
 너	you (informal)
+알리다	to inform, let know, notify
 일월	January   一月
+수영장	swimming pool   水泳場
+아르바이트	part-time job
 동생	younger sibling, younger friend
+퇴근하다	to go home from work   退勤
+피우다	to smoke;to bloom, blossom; to make a fire
+갈아타다	to change vehicles, transfer
 특별하다	to be special, extraordinary   特別
 무슨	which/what (+ noun)
 주무시다	to sleep (hon.)
+기간	period, term   期間
+기쁘다	to be glad, happy, pleased
+전화번호	phone number   電話番號
 등산	hiking, mountain climbing   登山
 쇼핑	shopping
 일	work, matter; day   日
 갈비	barbecued spare ribs
+음료수	beverage, drink   飮料水
 제주도	Jeju Island   濟州島
+케이크	cake
+잡수시다	to eat (hon.)
 나	I (informal)
 거실	living room   居室
 감사하다	to be thankful, thank, appreciate   感謝
@@ -522,18 +588,26 @@
 아니다	to not be
 시	time, hour; o'clock; poem   時, 詩
 명	counter for people   名
+권	counter for books   卷
 영국	United Kingdom   英國
 김치	kimchi (traditional Korean dish made of seasoned vegetables and other ingredients)
 컵	cup
 비빔밥	boiled rice with assorted mixtures
 냉면	cold noodles   冷麵
+싱겁다	to be bland, not salty enough
 어떻다	to be the manner in which something is done
 김밥	Korean dried seaweed rice rolls
+한가하다	to be free, have leisure, have time to spare   閑暇
+남산	Namsan, Mt. Nam (in Seoul)   南山
 그러니까	therefore, consequently
+하숙집	boarding house   下宿-
 들어가다	to enter, go in
 대학	university   大學
+생신	birthday (hon.)   生辰
 부산	Busan   釜山
 떡볶이	rice-stick with vegetables
+시다	to be sour
+노란색	yellow
 하얀색	white
 재미없다	to be boring, dull
 저기	over there
@@ -543,6 +617,7 @@
 생각	thought, idea
 잡채	noodles with sauteed vegetables   雜菜
 남대문	the South Gate   南大門
+삼계탕	chicken soup with ginseng   蔘鷄湯
 이거	this thing
 오월	May   五月
 유월	June   六月
@@ -560,10 +635,15 @@
 지난주	last week   --週
 건강하다	to be healthy   健康
 대학생	college student   大學生
+안내하다	to guide, lead the way   案內
 티셔츠	T-shirt
 중국	China   中國
+지하철역	subway station   地下鐵驛
 김치찌개	kimchi stew
 파란색	blue
 일주일	one week   一週日
+그런	such, that kind of
+이곳	this place, here
 맛없다	to be tasteless, unsavory
 갈비탕	beef rib soup
+영화배우	movie actor   映畫俳優
