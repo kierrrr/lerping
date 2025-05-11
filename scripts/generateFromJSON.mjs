@@ -43,7 +43,7 @@ try {
     .replaceAll("{{patterns_num}}", numberOfPatterns)
     .replace("{{epoch}}", Date.now());
 
-  const shuffledVocabObj = shuffleObject(vocabObj, 50);
+  const shuffledVocabObj = shuffleObject(vocabObj, 100);
   const shuffledNumberOfVocab = Object.keys(shuffledVocabObj).length;
   const shuffledPatternsObj = shuffleObject(patternsObj, 10);
   const shuffledNumberOfPatterns = Object.keys(shuffledPatternsObj).length;
